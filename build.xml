@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- created with XMLSpear -->
+<project  default="A">
+	<target name="A">
+		<echo message="123"/>
+	</target>
+</project>
